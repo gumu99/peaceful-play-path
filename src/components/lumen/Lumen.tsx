@@ -87,7 +87,7 @@ export function Lumen() {
       </header>
 
       <section className="flex flex-1 items-center justify-center px-4">
-        <PadGrid rows={6} cols={8} scaleId={settings.scaleId} />
+        <PadGrid rows={4} cols={4} scaleId={settings.scaleId} />
       </section>
 
       <footer className="px-4 pb-5 sm:px-6">
