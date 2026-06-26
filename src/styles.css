@@ -104,10 +104,6 @@
   }
 }
 
-@utility font-display {
-  font-family: var(--font-display);
-  letter-spacing: -0.02em;
-}
 
 @utility text-glow-violet {
   text-shadow: 0 0 24px oklch(0.66 0.22 295 / 0.7);
